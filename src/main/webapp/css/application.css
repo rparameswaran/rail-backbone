@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+.containerBody {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+.padding5 {
+    padding: 5px;
+}
